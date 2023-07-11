@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "name": "tic-tac-toe",
-  "description": null,
+  "description": "",
   "version": "0.0.71",
   "scripts": {
     "start": "react-scripts start",
